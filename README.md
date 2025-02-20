@@ -10,19 +10,22 @@ Tinkers' Creations is a mod pack for Minecraft 1.20.1. It is primarily designed 
 * Oh the Biomes We've Gone
 * Decoration mods
 * New mobs
+* Currency system (via Create Numismatics)
+* Bounty system for obtaining coins
 * Season system
 * Longer day/night cycle
 * Redesigned structures
 * Proximity voice chat
-* Currency system
 * Instanced-per-player loot chests
 
 ## Known Issues
 
-* Create Ironworks storage blocks do not drop when mined using Tinkers' Construct tools. These blocks include:
-  * Bronze Block
-  * Rose Quartz Block
-  * Steel Block
-  * Sturdy Sheet
-  * Tin Block
-  * Raw Tin Block
+* Create Ironworks storage blocks do not drop when mined using Tinkers' Construct tools.
+  * The mod creator is aware of this issue and is looking into a solution. 
+  * Affected blocks include:
+    * Bronze Block
+    * Rose Quartz Block
+    * Steel Block
+    * Sturdy Sheet
+    * Tin Block
+    * Raw Tin Block
