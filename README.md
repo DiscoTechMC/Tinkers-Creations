@@ -16,3 +16,13 @@ Tinkers' Creations is a mod pack for Minecraft 1.20.1. It is primarily designed 
 * Proximity voice chat
 * Currency system
 * Instanced-per-player loot chests
+
+## Known Issues
+
+* Create Ironworks storage blocks do not drop when mined using Tinkers' Construct tools. These blocks include:
+  * Bronze Block
+  * Rose Quartz Block
+  * Steel Block
+  * Sturdy Sheet
+  * Tin Block
+  * Raw Tin Block
