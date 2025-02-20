@@ -55,7 +55,6 @@
 * Friends & Foes 
 * Friends&Foes - Beekeeper Hut 
 * Friends&Foes - Flowery Mooblooms 
-* Full Brightness Toggle 
 * Fusion 
 * GeckoLib 4 
 * GlitchCore 
