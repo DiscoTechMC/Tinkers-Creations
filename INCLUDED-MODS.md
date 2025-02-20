@@ -103,7 +103,8 @@
 * Scarecrows' Territory 
 * Searchables 
 * SeasonHUD 
-* Serene Seasons 
+* Serene Seasons
+* Simple Voice Chat 
 * Smarter Farmers 
 * Snowy Spirit 
 * Sophisticated Backpacks 
