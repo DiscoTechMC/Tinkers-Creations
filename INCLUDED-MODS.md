@@ -1,146 +1,147 @@
-* 3d-Skin-Layers 
-* Abnormals Delight 
-* Accessories 
-* Akashic Tome 
-* Amendments 
-* AppleSkin 
-* Architectury 
-* Athena 
-* Balm 
-* Berry Good 
-* Better Advancements 
-* BetterDays 
-* Blended Compat 
-* Blueprint 
-* Bountiful 
-* Buzzier Bees 
-* Chefs Delight 
-* Chipped 
-* Cloth Config v10 API 
-* Collective 
-* Comforts 
-* Compressed Blocks 
-* Controlling 
-* CookingForBlockheads 
-* CorgiLib 
-* CraftingTweaks 
-* Crate Delight 
-* Create 
-* Create Contraption Terminals 
-* Create Deco 
-* Create Deco Additions 
-* Create Enchantment Industry 
-* Create Liquid Fuel 
-* Create: Central Kitchen 
-* Create: Connected 
-* Create: Dreams & Desires 
-* Create: Ironworks 
-* Create: Numismatics 
-* Create: Steam 'n' Rails 
-* Creeper Overhaul 
-* Critters and Companions 
-* Curios Compat Layer for Accessories 
-* Easy Piglins 
-* Easy Villagers 
-* Embeddium 
-* End's Delight 
-* Enderman Overhaul 
-* Entity Model Features 
-* Entity Texture Features 
-* Explorer's Compass 
-* Farmer's Cutting: Oh The Biomes We've Gone 
-* Farmer's Delight 
-* Farming for Blockheads 
-* Ferrite Core 
-* Friends & Foes 
-* Friends&Foes - Beekeeper Hut 
-* Friends&Foes - Flowery Mooblooms 
-* Fusion 
-* GeckoLib 4 
-* GlitchCore 
-* Gravestone Mod 
-* Guard Villagers 
-* Handcrafted 
-* Haunted Harvest 
-* Jade 
-* Jade Addons 
-* Just Enough Items 
-* Kambrik 
-* Kotlin for Forge 
-* KubeJS 
-* Little Contraptions 
-* Little Logistics 
-* Lootr 
-* Mantle 
-* ModernFix 
-* Moonlight Library 
-* Mouse Tweaks 
-* My Nether's Delight 
-* Naturalist 
-* Nature's Compass 
-* Neapolitan 
-* Night Lights 
-* NumismaticBounties 
-* Ocean's Delight 
-* Oculus 
-* Oh The Biomes We've Gone 
-* Oh The Trees You'll Grow 
-* Open Parties and Claims 
-* Oreganized 
-* Paxi 
-* Polymorph 
-* Quark 
-* Rapid Leaf Decay 
-* Rechiseled 
-* Rechiseled: Chipped 
-* Rechiseled: Create 
-* Repurposed Structures 
-* Resourceful Lib 
-* Resourcefulconfig 
-* Rhino 
-* Ribbits 
-* Scarecrows' Territory 
-* Searchables 
-* SeasonHUD 
-* Serene Seasons
-* Simple Voice Chat 
-* Smarter Farmers 
-* Snowy Spirit 
-* Sophisticated Backpacks 
-* Sophisticated Core 
-* Sophisticated Storage 
-* Spelunkery 
-* Starter Kit 
-* SuperMartijn642's Config Library 
-* SuperMartijn642's Core Lib 
-* Supplementaries 
-* TConJEI 
-* TerraBlender 
-* The Endergetic Expansion 
-* The Outer End 
-* Tinkers' Construct 
-* Tinkers' Delight 
-* Tom's Simple Storage Mod 
-* Trash Cans 
-* Universal Sawmill 
-* Upgrade Aquatic 
-* Villager Names 
-* VillagersPlus 
-* WaveyCapes 
-* Waystones 
-* Xaero's Map - Waystones Compability 
-* Xaero's Minimap 
-* Xaero's World Map 
-* YUNG's API 
-* YUNG's Better Desert Temples 
-* YUNG's Better Dungeons 
-* YUNG's Better End Island 
-* YUNG's Better Jungle Temples 
-* YUNG's Better Mineshafts 
-* YUNG's Better Nether Fortresses 
-* YUNG's Better Ocean Monuments 
-* YUNG's Better Strongholds 
-* YUNG's Better Witch Huts 
-* YUNG's Bridges 
-* Zeta 
-* Zume
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn)
+- [Abnormals Delight](https://modrinth.com/mod/ts3qjo5t)
+- [Accessories](https://modrinth.com/mod/jtmvUHXj)
+- [Akashic Tome](https://modrinth.com/mod/JBthPdnp)
+- [Amendments](https://modrinth.com/mod/6iTJugQR)
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ)
+- [Athena](https://modrinth.com/mod/b1ZV3DIJ)
+- [Balm](https://modrinth.com/mod/MBAkmtvl)
+- [Berry Good](https://modrinth.com/mod/2WZWaKCl)
+- [Better Advancements](https://modrinth.com/mod/Q2OqKxDG)
+- [BetterDays](https://modrinth.com/mod/tPLE214j)
+- [Blended Compat](https://modrinth.com/mod/QENxoXyf)
+- [Blueprint](https://modrinth.com/mod/VsM5EDoI)
+- [Bountiful](https://modrinth.com/mod/BpwWFOVM)
+- [Buzzier Bees](https://modrinth.com/mod/b7vOFSIp)
+- [Chefs Delight](https://modrinth.com/mod/pvcsfne4)
+- [Chipped](https://modrinth.com/mod/BAscRYKm)
+- [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g)
+- [Collective](https://modrinth.com/mod/e0M1UDsY)
+- [Comforts](https://modrinth.com/mod/SaCpeal4)
+- [Compressed Blocks](https://modrinth.com/mod/IQRVlbit)
+- [Controlling](https://modrinth.com/mod/xv94TkTM)
+- [CookingForBlockheads](https://modrinth.com/mod/vJnhuDde)
+- [CorgiLib](https://modrinth.com/mod/ziOp6EO8)
+- [CraftingTweaks](https://modrinth.com/mod/DMu0oBKf)
+- [Crate Delight](https://modrinth.com/mod/9rlXSyLg)
+- [Create](https://modrinth.com/mod/LNytGWDc)
+- [Create Contraption Terminals](https://modrinth.com/mod/gOPAFzp0)
+- [Create Deco](https://modrinth.com/mod/sMvUb4Rb)
+- [Create Deco Additions](https://modrinth.com/mod/HrsF061q)
+- [Create Enchantment Industry](https://modrinth.com/mod/JWGBpFUP)
+- [Create Liquid Fuel](https://modrinth.com/mod/sH9tXU9f)
+- [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)
+- [Create: Connected](https://modrinth.com/mod/Vg5TIO6d)
+- [Create: Dreams & Desires](https://modrinth.com/mod/JmybsfWs)
+- [Create: Ironworks](https://modrinth.com/mod/FZb6dmQf)
+- [Create: Numismatics](https://modrinth.com/mod/Jdbbtt0i)
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM)
+- [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93)
+- [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ)
+- [Curios Compat Layer for Accessories](https://modrinth.com/mod/izkDUlrJ)
+- [Easy Piglins](https://modrinth.com/mod/l6n94pax)
+- [Easy Villagers](https://modrinth.com/mod/Kaov2qgi)
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA)
+- [End's Delight](https://modrinth.com/mod/yHN0njMr)
+- [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv)
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY)
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1)
+- [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8)
+- [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/mod/ickBpNUE)
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
+- [Farming for Blockheads](https://modrinth.com/mod/4WJZr8JU)
+- [Ferrite Core](https://modrinth.com/mod/uXXizFIs)
+- [Friends & Foes](https://modrinth.com/mod/BOCJKD49)
+- [Friends&Foes \- Beekeeper Hut](https://modrinth.com/mod/K62sN7Sd)
+- [Friends&Foes \- Flowery Mooblooms](https://modrinth.com/mod/wYtDgIUZ)
+- [Full Brightness Toggle](https://modrinth.com/mod/aEK1KhsC)
+- [Fusion](https://modrinth.com/mod/p19vrgc2)
+- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H)
+- [GlitchCore](https://modrinth.com/mod/s3dmwKy5)
+- [Gravestone Mod](https://modrinth.com/mod/RYtXKJPr)
+- [Guard Villagers](https://modrinth.com/mod/H1sntfo8)
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p)
+- [Haunted Harvest](https://modrinth.com/mod/a378ICDH)
+- [Jade](https://modrinth.com/mod/nvQzSEkH)
+- [Jade Addons](https://modrinth.com/mod/xuDOzCLy)
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
+- [Kambrik](https://modrinth.com/mod/zfbCkvdZ)
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
+- [KubeJS](https://modrinth.com/mod/umyGl7zF)
+- [Little Contraptions](https://www.curseforge.com/projects/594563)
+- [Little Logistics](https://www.curseforge.com/projects/570050)
+- [Lootr](https://modrinth.com/mod/EltpO5cN)
+- [Mantle](https://modrinth.com/mod/Cg6Uc79H)
+- [ModernFix](https://modrinth.com/mod/nmDcB62a)
+- [Moonlight Library](https://modrinth.com/mod/twkfQtEc)
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq)
+- [My Nether's Delight](https://modrinth.com/mod/O53VhQoZ)
+- [Naturalist](https://modrinth.com/mod/F8BQNPWX)
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh)
+- [Neapolitan](https://modrinth.com/mod/InYMuiQt)
+- [Night Lights](https://modrinth.com/mod/s7pMb898)
+- [NumismaticBounties](https://modrinth.com/mod/gNGxmzHv)
+- [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW)
+- [Oculus](https://modrinth.com/mod/GchcoXML)
+- [Oh The Biomes We've Gone](https://modrinth.com/mod/NTi7d3Xc)
+- [Oh The Trees You'll Grow](https://modrinth.com/mod/g8NOG5OR)
+- [Open Parties and Claims](https://modrinth.com/mod/gF3BGWvG)
+- [Oreganized](https://modrinth.com/mod/2FJutzEL)
+- [Paxi](https://modrinth.com/mod/CU0PAyzb)
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ)
+- [Quark](https://modrinth.com/mod/qnQsVE2z)
+- [Rapid Leaf Decay](https://modrinth.com/mod/jSQXzmcf)
+- [Rechiseled](https://modrinth.com/mod/B0g2vT6l)
+- [Rechiseled: Chipped](https://modrinth.com/mod/ryYcxeeA)
+- [Rechiseled: Create](https://modrinth.com/mod/E6867niZ)
+- [Repurposed Structures](https://modrinth.com/mod/QDNS5oAT)
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD)
+- [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ)
+- [Rhino](https://modrinth.com/mod/sk9knFPE)
+- [Ribbits](https://modrinth.com/mod/8YcE8y4T)
+- [Scarecrows' Territory](https://modrinth.com/mod/1RaTTUPz)
+- [Searchables](https://modrinth.com/mod/fuuu3xnx)
+- [SeasonHUD](https://modrinth.com/mod/VNjUn3NA)
+- [Serene Seasons](https://modrinth.com/mod/e0bNACJD)
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1)
+- [Smarter Farmers](https://modrinth.com/mod/Bh6ZOMvp)
+- [Snowy Spirit](https://modrinth.com/mod/UiFDlI7w)
+- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b)
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg)
+- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f)
+- [Spelunkery](https://modrinth.com/mod/krskFMfA)
+- [Starter Kit](https://modrinth.com/mod/6L3ydNi8)
+- [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP)
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv)
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
+- [TConJEI](https://modrinth.com/mod/DhBtjMiv)
+- [TerraBlender](https://modrinth.com/mod/kkmrDlKT)
+- [The Endergetic Expansion](https://modrinth.com/mod/cPle5Z8G)
+- [The Outer End](https://modrinth.com/mod/X8s97ySO)
+- [Tinkers' Construct](https://modrinth.com/mod/rxIIYO6c)
+- [Tinkers' Delight](https://modrinth.com/mod/YdsAOij6)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy)
+- [Trash Cans](https://modrinth.com/mod/4QrnfueM)
+- [Universal Sawmill](https://modrinth.com/mod/WRaRZdTd)
+- [Upgrade Aquatic](https://modrinth.com/mod/gTuTFFyz)
+- [Villager Names](https://modrinth.com/mod/gqRXDo8B)
+- [VillagersPlus](https://modrinth.com/mod/oHGMwNDR)
+- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv)
+- [Waystones](https://modrinth.com/mod/LOpKHB2A)
+- [Xaero's Map \- Waystones Compability](https://modrinth.com/mod/7mLhyqIY)
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj)
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym)
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59)
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)
+- [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)
+- [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ)
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)
+- [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87)
+- [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6)
+- [Zeta](https://modrinth.com/mod/MVARlG2f)
+- [Zume](https://modrinth.com/mod/o6qsdrrQ)
