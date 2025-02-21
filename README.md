@@ -17,6 +17,7 @@ Tinkers' Creations is a mod pack for Minecraft 1.20.1. It is primarily designed 
 * Redesigned structures
 * Proximity voice chat
 * Instanced-per-player loot chests
+* Dedicated overworld and nether mining dimensions
 
 ## Known Issues
 
