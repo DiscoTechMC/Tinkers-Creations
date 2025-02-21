@@ -1,0 +1,27 @@
+
+{
+  // this is a list of custom density factors
+  "ConfiguredPortals": [
+    // example of the mansion and end cities being doubled in quantity
+    {
+      "isFlat": false,
+      "frameBlock": "minecraft:mossy_stone_bricks",
+      "isFluidIgniter": false,
+      "itemIgniter": "minecraft:wooden_pickaxe",
+      "dimension": "miningworld:mining_overworld",
+      "r": 0,
+      "g": 150,
+      "b": 0
+    },
+    {
+      "isFlat": false,
+      "frameBlock": "minecraft:red_nether_bricks",
+      "isFluidIgniter": false,
+      "itemIgniter": "minecraft:wooden_pickaxe",
+      "dimension": "miningworld:mining_nether",
+      "r": 150,
+      "g": 0,
+      "b": 150
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"type": "miningworld:mining",
+	"generator": {
+		"biome_source": {
+			"type": "minecraft:multi_noise",
+			"preset": "minecraft:overworld"
+		},
+		"settings": "miningworld:mining_overworld",
+		"type": "minecraft:noise"
+	}
+}
