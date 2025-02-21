@@ -84,9 +84,6 @@
   "waystones": {
     "waystone": true
   },
-  "gravestone": {
-    "grave": true
-  },
   "lootr": {
     "info": true
   },
@@ -97,5 +94,8 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "balm": {
+    "jade": true
   }
 }
