@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Tinkers' Creations",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "",
   "files": [
     {
@@ -595,6 +595,11 @@
       "required": true
     },
     {
+      "projectID": 404465,
+      "fileID": 6164053,
+      "required": true
+    },
+    {
       "projectID": 841262,
       "fileID": 4652060,
       "required": true
@@ -672,6 +677,11 @@
     {
       "projectID": 1094819,
       "fileID": 5682379,
+      "required": true
+    },
+    {
+      "projectID": 386134,
+      "fileID": 5363345,
       "required": true
     },
     {
