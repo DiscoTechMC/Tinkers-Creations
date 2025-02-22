@@ -60,6 +60,7 @@
 - [Fusion](https://www.curseforge.com/projects/854949)
 - [GeckoLib 4](https://www.curseforge.com/projects/388172)
 - [GlitchCore](https://www.curseforge.com/projects/955399)
+- [Gravestone Mod](https://modrinth.com/mod/RYtXKJPr)
 - [Guard Villagers](https://www.curseforge.com/projects/360203)
 - [Handcrafted](https://www.curseforge.com/projects/538214)
 - [Haunted Harvest](https://www.curseforge.com/projects/541753)
